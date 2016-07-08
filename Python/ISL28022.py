@@ -26,7 +26,7 @@ data = bus.read_i2c_block_data(0x40, 0x01, 2)
 # Convert the data
 raw_shunt = data[0] * 256 + data[1]
 if raw_shunt > 32767 :
-    raw_shunt -= 32768
+    raw_shunt -= 65536
 
 # Output data to screen
 print "Raw value of Shunt Voltage :%d" %raw_shunt
