@@ -1,8 +1,8 @@
- [![ISL28022](ISL28022_I2CS.png)](https://www.controleverything.com/content/Analog-Digital-Converters?sku=ISL28022_I2CADC)
+ [![ISL28022](ISL28022_I2CS.png)](https://www.controleverything.com/products)
 # ISL28022
-ISL28022 Analog to Digital Converter.
+ISL28022 Precision Digital Power Monitor.
 
-The ISL28022 is a 2-Channel Analog to Digital Converter.
+The ISL28022 is a bidirectional high-side and low-side digital current sense and voltage monitor with serial interface.
 
 This Device is available from ControlEverything.com [SKU: ISL28022_I2CS]
 
