@@ -61,7 +61,7 @@ void loop()
   int raw_shunt = data[0] * 256 + data[1];
   if (raw_shunt > 32767)
   {
-    raw_shunt -= 32768;
+    raw_shunt -= 65536;
   }
 
   // Output data to dashboard
